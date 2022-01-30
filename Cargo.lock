@@ -177,9 +177,12 @@ dependencies = [
  "futures",
  "indicatif",
  "log",
+ "rand 0.8.4",
+ "regex",
  "serde_json",
  "tokio",
  "tokio-stream",
+ "tonic",
 ]
 
 [[package]]
